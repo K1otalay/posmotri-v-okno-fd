@@ -262,10 +262,6 @@ text-decoration: underline;
 .search-form__label:focus{
   outline: none;
 }
-
-/* input[type="checkbox"] + .search-form__pseudo-checkbox{
-
-} */
 /*стлизация чкбоксов END*/
 
 /* Конец 4 шага */
